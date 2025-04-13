@@ -1,6 +1,10 @@
 package selenium_ci_example;
 
 public class Onkar {
-	public String shivam="";
+
+	int i=20;
+
+	pblic String shivam="";
+
 
 }
